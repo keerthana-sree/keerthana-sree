@@ -1,6 +1,8 @@
 Hey there, I'm Keerthana ,
 
 
+
+
 🎓 AI \& DS Student passionate about building intelligent systems  
 
 🤖 Exploring the world of Machine Learning \& Deep Learning  
@@ -8,6 +10,8 @@ Hey there, I'm Keerthana ,
 💡 Curious learner who enjoys solving real-world problems using technology    
 
 🌱 Continuously improving coding, analytical thinking, and problem-solving skills    
+
+
 
 
 
@@ -24,6 +28,8 @@ Hey there, I'm Keerthana ,
 🔹 Model Optimization \& Evaluation
 
 🔹 Streamlit Deployment
+
+
 
 
 
@@ -45,6 +51,8 @@ Hey there, I'm Keerthana ,
 
 
 
+
+
 📂Libraries & Tools
 
 🔹 NumPy
@@ -60,6 +68,8 @@ Hey there, I'm Keerthana ,
 🔹 Streamlit
 
 
+
+
  📂 Featured Projects
 
 🔹 ANN Diabetes Prediction System  
@@ -71,6 +81,8 @@ Hey there, I'm Keerthana ,
 🔹 Data Analysis \& ML Mini Projects 
 
 
+
+
  🎯 Goals
 
 ✨ Improve real-world project building skills  
@@ -80,6 +92,8 @@ Hey there, I'm Keerthana ,
 ✨ Become a successful ML Engineer / Software Developer  
 
 ✨ Get placed in a reputed tech company  
+
+
 
 
  📈 Motto
