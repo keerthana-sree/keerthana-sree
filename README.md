@@ -1,5 +1,4 @@
-&#x20;Hey there, I'm Keerthana 👋
-
+Hey there, I'm Keerthana ,
 
 
 🎓 AI \& DS Student passionate about building intelligent systems  
@@ -12,73 +11,56 @@
 
 
 
-&#x20;🔥 What I’m Currently Learning
+📂 What I’m Currently Learning
 
-\- Machine Learning Algorithms
+🔹 Machine Learning Algorithms
 
-\- Deep Learning using TensorFlow
+🔹 Deep Learning using TensorFlow
 
-\- Data Analysis \& Visualization
+🔹 Data Analysis \& Visualization
 
-\- Neural Networks (ANN \& CNN)
+🔹Neural Networks (ANN \& CNN)
 
-\- Model Optimization \& Evaluation
+🔹 Model Optimization \& Evaluation
 
-\- Streamlit Deployment
-
-
-
-&#x20;🧠 Skills
+🔹 Streamlit Deployment
 
 
 
-\### Machine Learning
+📂 Skills
 
-\- Supervised Learning
+🔹Machine Learning
 
-\- Unsupervised Learning
+🔹 Supervised Learning
 
-\- Regression Models
+🔹 Unsupervised Learning
 
-\- Classification Models
+🔹 Regression Models
 
-\- Feature Engineering
+🔹 Classification Models
 
-\- Data Preprocessing
+🔹 Feature Engineering
 
-
-
-\### Programming
-
-\- Python
-
-\- SQL
-
-\- Git \& GitHub
+🔹 Data Preprocessing
 
 
 
-\### Libraries \& Tools
+📂Libraries & Tools
 
-\- NumPy
+🔹 NumPy
 
-\- Pandas
+🔹 Pandas
 
-\- Matplotlib
+🔹 Matplotlib
 
-\- Scikit-learn
+🔹 Scikit-learn
 
-\- TensorFlow
+🔹 TensorFlow
 
-\- Streamlit
-
-
-
-\---
+🔹 Streamlit
 
 
-
-\## 📂 Featured Projects
+ 📂 Featured Projects
 
 🔹 ANN Diabetes Prediction System  
 
@@ -86,15 +68,10 @@
 
 🔹 Handwritten Digit Recognition  
 
-🔹 Data Analysis \& ML Mini Projects  
+🔹 Data Analysis \& ML Mini Projects 
 
 
-
-\---
-
-
-
-\## 🎯 Goals
+ 🎯 Goals
 
 ✨ Improve real-world project building skills  
 
@@ -105,12 +82,7 @@
 ✨ Get placed in a reputed tech company  
 
 
+ 📈 Motto
 
-\---
-
-
-
-\## 📈 Motto
-
-“Learn consistently, build confidently, and grow continuously.” 🚀
+“Learn consistently, build confidently, and grow continuously.” 
 
