@@ -15,6 +15,8 @@ Hey there, I'm Keerthana ,
 
 
 
+
+
 📂 What I’m Currently Learning
 
 🔹 Machine Learning Algorithms
@@ -28,6 +30,8 @@ Hey there, I'm Keerthana ,
 🔹 Model Optimization \& Evaluation
 
 🔹 Streamlit Deployment
+
+
 
 
 
@@ -53,6 +57,8 @@ Hey there, I'm Keerthana ,
 
 
 
+
+
 📂Libraries & Tools
 
 🔹 NumPy
@@ -70,6 +76,8 @@ Hey there, I'm Keerthana ,
 
 
 
+
+
  📂 Featured Projects
 
 🔹 ANN Diabetes Prediction System  
@@ -83,6 +91,8 @@ Hey there, I'm Keerthana ,
 
 
 
+
+
  🎯 Goals
 
 ✨ Improve real-world project building skills  
@@ -92,6 +102,8 @@ Hey there, I'm Keerthana ,
 ✨ Become a successful ML Engineer / Software Developer  
 
 ✨ Get placed in a reputed tech company  
+
+
 
 
 
