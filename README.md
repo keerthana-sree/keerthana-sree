@@ -8,7 +8,7 @@ Hey there, I'm Keerthana
 
 
 
-## 🔥 What I’m Currently Learning
+📂 What I’m Currently Learning 
 - Machine Learning Algorithms
 - Deep Learning using TensorFlow
 - Data Analysis & Visualization
@@ -16,11 +16,11 @@ Hey there, I'm Keerthana
 - Model Optimization & Evaluation
 - Streamlit Deployment
 
----
 
-## 🧠 Skills
 
-### Machine Learning
+ 🧠 Skills
+
+- Machine Learning
 - Supervised Learning
 - Unsupervised Learning
 - Regression Models
@@ -28,12 +28,9 @@ Hey there, I'm Keerthana
 - Feature Engineering
 - Data Preprocessing
 
-### Programming
-- Python
-- SQL
-- Git & GitHub
 
-### Libraries & Tools
+
+📂 Libraries & Tools
 - NumPy
 - Pandas
 - Matplotlib
@@ -41,23 +38,23 @@ Hey there, I'm Keerthana
 - TensorFlow
 - Streamlit
 
----
 
-## 📂 Featured Projects
+
+ 📂 Featured Projects
 🔹 ANN Diabetes Prediction System  
 🔹 CNN Sonar Rock vs Mine Classification  
 🔹 Handwritten Digit Recognition  
 🔹 Data Analysis & ML Mini Projects  
 
----
 
-## 🎯 Goals
+
+ 🎯 Goals
 ✨ Improve real-world project building skills  
 ✨ Contribute to innovative AI solutions  
 ✨ Become a successful ML Engineer / Software Developer  
 ✨ Get placed in a reputed tech company  
 
----
 
-## 📈 Motto
-“Learn consistently, build confidently, and grow continuously.” 🚀
+
+ 📈 Motto
+“Learn consistently, build confidently, and grow continuously.” 
